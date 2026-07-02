@@ -1,4 +1,4 @@
-# 📄 Document Mini Project — AI 문서 OCR·요약·분류 RAG 시스템
+# 📄 Document Mini Project — AI 문서 OCR·요약·분류 시스템
 
 문서(HWP/HWPX, PDF, DOCX, PPT/PPTX)를 업로드하면 **OCR로 텍스트를 추출**하고, **RAG 파이프라인으로 벡터화**한 뒤 **로컬 LLM(Ollama)** 이 문서를 **요약**하고 **대분류·소분류**까지 자동으로 처리해 주는 풀스택 프로젝트입니다.
 
